@@ -1,4 +1,4 @@
-# Teko--Test
+# teko-test
 This repository is the solution for Data Analytics Test at Teko. The dataset includes taxi drives in NYC in 2014 of 2 vendors,
 which are CMT and VTS. My repository is a kind of exloratory data analysis for this dataset. I started with cleaning dataset and then 
 visualize the data. 
